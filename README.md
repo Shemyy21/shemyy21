@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Shem, a Passionate Front end Developer who's ready to learn.
+🌱 I’m currently learning Javascript
 
 <!--
 **Shemyy21/shemyy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
